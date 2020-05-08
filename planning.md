@@ -1,6 +1,6 @@
 ## Project Links
 -**Front-End Client Workflow**: (https://docs.google.com/drawings/d/1ZWztRNUUPXq2OBQTLWv08I_GqdqGAxn4i3naf5MiK6s/edit)
--**React Architecture**:  
+-**React Architecture**: (https://docs.google.com/drawings/d/1_K5xBjbYRcydtaai-uOojxBlQ18Pkfm7F4C8_Lof9pM/edit)   
 -**Back-End Models**: (https://docs.google.com/drawings/d/1-bd-V2B4PMqvOEILsvVrXtMlL0CGMEgZI5fRQTZj-Zg/edit)  
 -**FrontEnd Deployment**:  
 -**BackEnd Deployment**:  
