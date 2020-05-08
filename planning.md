@@ -1,7 +1,7 @@
 ## Project Links
--**Front-End Client Workflow**: https://docs.google.com/drawings/d/1ZWztRNUUPXq2OBQTLWv08I_GqdqGAxn4i3naf5MiK6s/edit  
+-**Front-End Client Workflow**: (https://docs.google.com/drawings/d/1ZWztRNUUPXq2OBQTLWv08I_GqdqGAxn4i3naf5MiK6s/edit)
 -**React Architecture**:  
--**Back-End Models: https**://docs.google.com/drawings/d/1-bd-V2B4PMqvOEILsvVrXtMlL0CGMEgZI5fRQTZj-Zg/edit  
+-**Back-End Models**: (https://docs.google.com/drawings/d/1-bd-V2B4PMqvOEILsvVrXtMlL0CGMEgZI5fRQTZj-Zg/edit)  
 -**FrontEnd Deployment**:  
 -**BackEnd Deployment**:  
 
@@ -47,10 +47,13 @@ Guardian CRUD | 6 hours |  |
 Dashboard CRUD | 4 hours |  | 
 
 
-##MVP
+##MVP  
 -Document Creator  
 -Landing page  
 -Create Appt - calendly plugin    
 -Client Info Page - edit/update    
 -Credit Card Page - create/edit    
 -Attorney Dashboard
+
+## Credits/Aditional Libraries
+
