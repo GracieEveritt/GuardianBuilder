@@ -10,13 +10,6 @@ Online resource for attorney and client to streamline the estate document buildi
 The landing page calls the potential client to create an account [secured login using JWT tokens]. A client dashboard provides all info.
 The potential client is prompted to select a form(s) to build, and then prompted to answer relevant questions, and then schedule time with attorney.
 
-## Timeline
--Backend (1 day)
--JWT (1 day)
--LogIn/Registration (1 day)
--Form Flow (2 days)
--Dashboard (1 day)
-
 ## Components
 Component | Description | Estimated Time | Target Finish Date 
 ----------|-------------|----------------|-------------------
@@ -30,7 +23,7 @@ Responsiveness | Create responsive views | 1/2 day | Thurs, May 13
 CSS | Beautify frontend | 1/2 day | Thurs, May 13
 Publish & Finalize | Publish site & finalize documentation | 1/2 day | Thurs, April 2
 
-## TimeLine - expect total project 
+## Timeline
 ### Estimated Time -- 36 hours
 Task | Time Estimate | Time Invested | Actual Time (56 hours)
 ------|---------------|---------------|------------
