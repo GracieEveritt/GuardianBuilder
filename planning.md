@@ -21,7 +21,6 @@ Form Selection | List of Forms to Select From | 1/4 day | Tue, May 11
 Guardian Form | Create Form with CRUD | 1 day | Wed, May 12
 Responsiveness | Create responsive views | 1/2 day | Thurs, May 13
 CSS | Beautify frontend | 1/2 day | Thurs, May 13
-Publish & Finalize | Publish site & finalize documentation | 1/2 day | Thurs, April 2
 
 ## Timeline
 ### Estimated Time -- 36 hours
