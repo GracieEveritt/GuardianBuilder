@@ -40,7 +40,7 @@ Guardian CRUD | 6 hours |  |
 Dashboard CRUD | 4 hours |  | 
 
 
-##MVP  
+## Post-MVP  
 -Document Creator  
 -Landing page  
 -Create Appt - calendly plugin    
